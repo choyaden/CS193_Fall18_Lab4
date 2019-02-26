@@ -3,7 +3,7 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 IU succ
 // Under this line, describe what the command 'git fetch' does
-
+downloads stuff from repo
 
 Task 2:
 
