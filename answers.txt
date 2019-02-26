@@ -8,6 +8,7 @@ downloads stuff from repo
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
+saves code from computer to repo
 
 Task 3:
 
